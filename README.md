@@ -1,4 +1,4 @@
 # myFirstRepo
 this is my first repositary.
 <br>
-Author = Mangita sharma
+Author = Mangitasharma
